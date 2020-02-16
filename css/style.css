@@ -1,0 +1,32 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+   
+}
+.name {
+    color: #ba251a;
+    font-size: 50px;
+}
+.happy {
+    height: 200px;
+    width: 300px;
+    
+}
+.sad {
+    height: 250px;
+    width: 300px;
+}
+.n2 {
+    color: yellowgreen
+}
+.pic {
+    display: flex;
+}
+a
+{
+ color: red
+}
+
+.pp{
+    color: yellow;
+}
